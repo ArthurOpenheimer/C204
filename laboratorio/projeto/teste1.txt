@@ -1,0 +1,27 @@
+1
+Charmander Fogo 4 Pokebola
+1
+Squirtle Agua 7 Masterball
+1
+Blastoise Agua 1 Greatball
+1
+Mudkip Agua 25 Ultraball
+1
+Eevee Normal 133 Pokebola
+2
+3
+4
+Charmander
+4
+Pidgey
+5
+Agua
+5
+Pidgey
+6
+Pokebola
+2
+7
+Greatball
+8
+133
